@@ -2,7 +2,7 @@
 # AUTHOR Luigi
 # VERSION 0.0.1
 
-# 快速生成一圈相机，用于制作360度GIF动画
+# 快速生成一圈相机，用于制作360度转台GIF动画
 
 # 用法：
 # 先在Free Camera中调整好构图
